@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="dataprovinsi">"Data Provinsi"</string>
+    <string name="informasi">"Informasi Covid-19</string>
+    <string name="about">Pengetahuan Anda tentang Covid19 sangat minim, maka kami bermaksud untuk memberikan informasi kepada Anda terkait dengan Covid-19.</string>
+    <string name="textabout">Tentang Covid-19</string>
+    <string name="textinfo">Informasi tambahan seputar kasus covid-19 di Indonesia</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="dirawat">Dirawat</string>
+    <string name="kasus">Kasus di Indonesia</string>
+    <string name="loading">Harap Tunggu...</string>
+    <string name="articovid">Apa itu Covid-19?</string>
+    <string name="gejala">Mengenal gejala - gejala Covid-19</string>
+    <string name="protokol">Aturan Protokol Kesehatan</string>
+    <string name="judul_artikel">Sumber : <a href="https://www.alodokter.com/virus-corona">Alodokter.com</a></string>
+    <string name="artikelarticovid">\n\t<b>Virus Corona atau severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)</b> adalah virus yang menyerang sistem pernapasan. Penyakit karena infeksi virus ini disebut <b>COVID-19</b>. Virus Corona bisa menyebabkan gangguan ringan pada sistem pernapasan, infeksi paru-paru yang berat, hingga kematian.
+        \n\t<b>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)</b> yang lebih dikenal dengan nama <b>Virus Corona</b> adalah jenis baru dari coronavirus yang menular ke manusia. Virus ini bisa menyerang siapa saja, seperti lansia (golongan usia lanjut), orang dewasa, anak-anak, dan bayi, termasuk ibu hamil dan ibu menyusui.</string>
+    <string name="artikelgejala">\n\tGejala awal infeksi virus Corona atau COVID-19 bisa menyerupai gejala flu, yaitu demam, pilek, batuk kering, sakit tenggorokan, dan sakit kepala. Setelah itu, gejala dapat hilang dan sembuh atau malah memberat. Penderita dengan gejala yang berat bisa mengalami demam tinggi, batuk berdahak bahkan berdarah, sesak napas, dan nyeri dada. Gejala-gejala tersebut muncul ketika tubuh bereaksi melawan virus Corona.
+\nSecara umum, ada 3 gejala umum yang bisa menandakan seseorang terinfeksi virus Corona, yaitu:
+\n- Demam (suhu tubuh di atas 38 derajat Celsius)
+\n- Batuk kering
+\n- Sesak napas
+\n\nAda beberapa gejala lain yang juga bisa muncul pada infeksi virus Corona meskipun lebih jarang, yaitu:
+\n- Diare
+\n- Sakit kepala
+\n- Konjungtivitis
+\n- Hilangnya kemampuan mengecap rasa
+\n- Hilangnya kemampuan untuk mencium bau (anosmia)
+\n- Ruam di kulit
+\nGejala-gejala COVID-19 ini umumnya muncul dalam waktu 2 hari sampai 2 minggu setelah penderita terpapar virus Corona. Sebagian pasien yang terinfeksi virus Corona bisa mengalami penurunan oksigen tanpa adanya gejala apapun. Kondisi ini disebut happy hypoxia.
+\nGuna memastikan apakah gejala-gejala tersebut merupakan gejala dari virus Corona, diperlukan rapid test atau PCR.</string>
+    <string name="artikelprotokol">\n\tSampai saat ini, belum ada vaksin untuk mencegah infeksi virus Corona atau COVID-19. Namun, beberapa perusahaan farmasi dan institusi kesehatan tengah berupaya untuk meneliti dan mengembangkan vaksin COVID-19. Apabila lulus uji klinis dan dinyatakan efektif dan aman untuk mencegah COVID-19, vaksin tersebut akan mulai diproduksi lebih banyak agar dapat diberikan pada masyarakat.
+
+\nOleh sebab itu, cara pencegahan yang terbaik adalah dengan menghindari faktor-faktor yang bisa menyebabkan Anda terinfeksi virus ini, yaitu:
+
+        \n- Terapkan <b>physical distancing</b>, yaitu menjaga jarak minimal 1 meter dari orang lain, dan jangan dulu ke luar rumah kecuali ada keperluan mendesak.
+        \n- <b>Gunakan masker</b> saat beraktivitas di tempat umum atau keramaian, termasuk saat pergi berbelanja bahan makanan dan mengikuti ibadah di hari raya, misalnya Idul Adha.
+        \n- <b>Rutin mencuci tangan</b> dengan air dan sabun atau hand sanitizer yang mengandung alkohol minimal 60%, terutama setelah beraktivitas di luar rumah atau di tempat umum.
+        \n- <b>Jangan menyentuh mata, mulut, dan hidung sebelum mencuci tangan</b>.
+        \n- <b>Tingkatkan daya tahan tubuh dengan pola hidup sehat</b>, seperti mengonsumsi makanan bergizi, berolahraga secara rutin, beristirahat yang cukup, dan mencegah stres.
+        \n- <b>Hindari kontak dengan penderita COVID-19</b>, orang yang dicurigai positif terinfeksi virus Corona, atau orang yang sedang sakit demam, batuk, atau pilek.
+        \n- <b>Tutup mulut dan hidung dengan tisu saat batuk atau bersin</b>, kemudian buang tisu ke tempat sampah.
+        \n- <b>Jaga kebersihan</b> benda yang sering disentuh dan kebersihan lingkungan, termasuk kebersihan rumah.
+\n\tUntuk orang yang diduga terkena COVID-19 (termasuk kategori suspek dan probable) yang sebelumnya disebut sebagai ODP (orang dalam pemantauan) maupun PDP (pasien dalam pengawasan), ada beberapa langkah yang bisa dilakukan agar tidak menularkan virus Corona ke orang lain, yaitu:
+
+\n- Lakukan isolasi mandiri dengan cara tinggal terpisah dari orang lain untuk sementara waktu. Bila tidak memungkinkan, gunakan kamar tidur dan kamar mandi yang berbeda dengan yang digunakan orang lain.
+\n- Jangan keluar rumah, kecuali untuk mendapatkan pengobatan.
+\n- Bila ingin ke rumah sakit saat gejala bertambah berat, sebaiknya hubungi dulu pihak rumah sakit untuk menjemput.
+\n- Larang orang lain untuk mengunjungi atau menjenguk Anda sampai Anda benar-benar sembuh.
+\n- Sebisa mungkin jangan melakukan pertemuan dengan orang yang sedang sedang sakit.
+\n- Hindari berbagi penggunaan alat makan dan minum, alat mandi, serta perlengkapan tidur dengan orang lain.
+\n- Pakai masker dan sarung tangan bila sedang berada di tempat umum atau sedang bersama orang lain.
+\n- Gunakan tisu untuk menutup mulut dan hidung bila batuk atau bersin, lalu segera buang tisu ke tempat sampah.
+\n\tKondisi-kondisi yang memerlukan penanganan langsung oleh dokter di rumah sakit, seperti melahirkan, operasi, cuci darah, atau vaksinasi anak, perlu ditangani secara berbeda dengan beberapa penyesuaian selama pandemi COVID-19. Tujuannya adalah untuk mencegah penularan virus Corona selama Anda berada di rumah sakit. Konsultasikan dengan dokter mengenai tindakan terbaik yang perlu dilakukan.</string>
+</resources>
